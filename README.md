@@ -1,6 +1,6 @@
 # CSS Masterclass Curriculum
 
-Or how to master css using available free content.
+Or how to master CSS using available free content.
 
 <p style="text-align: center;">
   <img src="https://images.unsplash.com/photo-1517446915321-65e972f1b494?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="Photo by Paula May on Unsplash">
@@ -9,20 +9,20 @@ Or how to master css using available free content.
 
 <br/>
 
-CSS are very vast topic is seems to be easy at first, but it become a pain in a head when you want to master it not for lack of tutorials but for lack of path or fully curriculum to mastering it, here i am going to show you how to master css by following a curriculum contain very comprehensive resources from the internet, and sure it will be free.
+CSS is a very vast topic seems to be easy at first, but it becomes a pain in a head when you want to master it not for lack of tutorials but for lack of path or full curriculum to mastering it, here I am going to show you how to master CSS by following a curriculum contain very comprehensive resources from the internet, and sure it will be free.
 
 ---
 
 ## What is CSS?
 
-Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content. (Source: Wikipedia)
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file and reduce complexity and repetition in the structural content. (Source: Wikipedia)
 
 ---
 
 ## How this curriculum work?
 
-In each section you can find 📖 Contents and 📚 Resources, in contents i show to you what topics included in this section then in resources sections i list some of big and most comprehensive ( articles, videos or courcess ) resources covering this topic.
-But before you start you need to learn the basics of html & css then follow the Curriculum to master css.
+In each section you can find 📖 Contents and 📚 Resources, in contents I show to you what topics included in this section then in resources sections I list some of the big and most comprehensive ( articles, videos or courses ) resources covering this topic.
+But before you start you need to learn the basics of HTML & CSS then follow the Curriculum to master CSS.
 
 ---
 
@@ -38,12 +38,12 @@ But before you start you need to learn the basics of html & css then follow the 
 
 ## 📆 Curriculum
 
-CSS can be categorised into four main category:
+CSS can be categorized into four main categories:
 
-1. **Syntax:** includes selectors, properties, values and specificity.
-2. **Visual:** includes styling content, responsive web design and animations.
+1. **Syntax:** includes selectors, properties, values, and specificity.
+2. **Visual:** includes styling content, responsive web design, and animations.
 3. **Layout:** includes box model, layout.
-4. **Management:** includes css preprocessors, methodologies and frameworks.
+4. **Management:** includes CSS preprocessors, methodologies, and frameworks.
 
 - [CSS Selectors](#css-selectors)
 - [CSS Properties](#css-properties)
@@ -72,11 +72,11 @@ A CSS rule-set consists of a selector and a declaration block:
 The selector points to the HTML element you want to style.
 The declaration block contains one or more declarations separated by semicolons.
 Each declaration includes a CSS property name and a value, separated by a colon.
-A CSS declaration always ends with a semicolon, and declaration blocks are surrounded by curly braces.(Source: w3schools)
+A CSS declaration always ends with a semicolon, and declaration blocks are surrounded by curly braces. (Source: w3schools)
 
 ### **CSS Selectors**
 
-In CSS, selectors are used to target the HTML elements on our web pages that we want to style.
+In CSS, selectors are used to targeting the HTML elements on our web pages that we want to style.
 
 #### 📖 Contents
 
@@ -109,7 +109,7 @@ In CSS, selectors are used to target the HTML elements on our web pages that we 
 
 ### **CSS Properties**
 
-**Note:** You will learn more about properties when you get into proper section but you can learn some generic concept like css variables.
+**Note:** You will learn more about properties when you get into proper section but you can learn some generic concept like CSS variables.
 
 #### 📖 Contents
 
@@ -123,12 +123,12 @@ In CSS, selectors are used to target the HTML elements on our web pages that we 
 
 ### **CSS Values**
 
-CSS values are set against CSS Properties and reside within CSS declaration block, which is a part of the CSS rule / statement.
+CSS values are set against CSS Properties and reside within CSS declaration block, which is a part of the CSS rule/statement.
 **Note:** You will learn more about each value type when you get into proper section but you can learn some generic values like rem, colors, calc ...etc.
 
 #### 📖 Contents
 
-- Thers is 4 types of values in css
+- There are 4 types of values in CSS
 
   - Colors.
   - Length, sizes and numbers.
@@ -153,7 +153,7 @@ CSS values are set against CSS Properties and reside within CSS declaration bloc
 
 ### **CSS Specificity**
 
-At some point in your work, you'll find yourself in the situation where multiple CSS rules will have selectors matching the same element. In such cases, which CSS rule "wins", and ends up being the one that is finally applied to the element? This is controlled by a mechanism called the Cascade, One of the most important concepts to master as you start to dig into more advanced concepts is specificity, Specificity is basically a measure of how specific a selector is.(Source: MDN)
+At some point in your work, you'll find yourself in a situation where multiple CSS rules will have selectors matching the same element. In such cases, which CSS rule "wins", and ends up being the one that is finally applied to the element? This is controlled by a mechanism called the Cascade, One of the most important concepts to master as you start to dig into more advanced concepts is specificity, Specificity is basically a measure of how specific a selector is. (Source: MDN)
 
 #### 📖 Contents
 
@@ -184,11 +184,11 @@ The CSS box model is the foundation of layout on the Web — each element is rep
 
 #### 📖 Contents
 
-- **Content** ( images, text …etc ).
-- **Padding** ( Transparent area around the content, inside of the box ).
-- **Borders** ( goes around the padding and content ).
-- **Fill Area** ( area the contain border, padding and content, and filling with backround and bacground-image ).
-- **Margins** ( Space around elements, outside of any defined borders. ).
+- **Content** (images, text …etc).
+- **Padding** (Transparent area around the content, inside of the box).
+- **Borders** (goes around the padding and content ).
+- **Fill Area** (the area that contains border, padding, content, and filling with background and background-image).
+- **Margins** (Space around elements, outside of any defined borders).
 - **Box Sizing:**
   - content-box: Width and height only apply to the content of the element.
   - border-box: Include padding and border in the element's total width and height.
@@ -213,14 +213,14 @@ The CSS box model is the foundation of layout on the Web — each element is rep
 
 ### **Styling Content**
 
-After you learn the box-model, learning styling content _( which is the part of box-model )_ is the big core concept to master. In this section you will learn how to style those content like images, text, lists, links ...etc.
+After you learn the box-model, learning styling content _( which is the part of box-model )_ is the big core concept to master. In this section, you will learn how to style those content like images, text, lists, links ...etc.
 
 #### 📖 Contents
 
 - Typography.
 - Lists.
 - Links.
-- Media ( Image, Video and Audio ).
+- Media ( Image, Video, and Audio ).
 - Tables.
 - Forms.
 - Buttons.
@@ -232,8 +232,8 @@ After you learn the box-model, learning styling content _( which is the part of 
 
 ### **CSS Layout**
 
-Once you have the ability to target html elements for styling, layout is the next core concept to master.
-Layout involves manipulating how elements lay out on the page, How much space do they take?, Are they side by side or on top of each other?, ...etc.
+Once you have the ability to target HTML elements for styling, the layout is the next core concept to master.
+Layout involves manipulating how elements layout on the page, How much space do they take? Are they side by side or on top of each other?...etc.
 
 #### 📖 Contents
 
@@ -363,8 +363,8 @@ CSS Animations involves manipulating how elements should look like over the time
 
 ### **CSS Preprocessors**
 
-The use of CSS preprocessors has become so important especially when you start working on large project.
-Learn about the most famous and common used preprocessor ( SASS ), Why i use it?, How to use it? and How to writing maintainable and scalable Sass.
+The use of CSS preprocessors has become so important especially when you start working on a large project.
+Learn about the most famous and common used preprocessor ( SASS ), Why I use it?, How to use it? and How to writing maintainable and scalable Sass.
 
 #### 📖 Contents
 
@@ -385,7 +385,7 @@ Learn about the most famous and common used preprocessor ( SASS ), Why i use it?
 
 ### **CSS Methodologies**
 
-If you're not careful, it is easy to write complex, confusing, and unmaintable CSS. so there is many way to manage that.
+If you're not careful, it is easy to write complex, confusing, and unmaintainable CSS. so there are many ways to manage that.
 
 #### 📖 Contents
 
@@ -402,7 +402,7 @@ If you're not careful, it is easy to write complex, confusing, and unmaintable C
 
 ### **CSS Frameworks**
 
-In this area you can pick up any framework you want, but i will list here the most famous one.
+In this area, you can pick up any framework you want, but I will list here the most famous one.
 
 #### 📖 Contents
 
@@ -432,7 +432,7 @@ In this area you can pick up any framework you want, but i will list here the mo
 
 ## Where to go next?
 
-In general i found this blogs, newsletter or courses the best resources to learn css in specific and web development in general and for those who prefer paid courses i list for you the best paid courses available on the web.
+In general, I found this blogs, newsletter or courses the best resources to learn CSS in specific and web development in general and for those who prefer paid courses I list for you the best-paid courses available on the web.
 
 - Blogs
 
