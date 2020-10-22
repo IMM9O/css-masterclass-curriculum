@@ -107,7 +107,7 @@ In CSS, selectors are used to targeting the HTML elements on our web pages that 
 - 📜 [Attribute Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors) - MDN web docs.
 - 📜 [Pseudo-class and Pseudo-element Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements) - MDN web docs.
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
 
 ### **CSS Properties**
 
@@ -123,7 +123,7 @@ In CSS, selectors are used to targeting the HTML elements on our web pages that 
 - 📜 [CSS Custom Properties Guide](https://css-tricks.com/guides/css-custom-properties/) - CSS Tricks.
 - 📜 [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855) - Freecodecamp.
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
 
 ### **CSS Values**
 
@@ -155,7 +155,7 @@ CSS values are set against CSS Properties and reside within CSS declaration bloc
 - 📜 [CSS Gradients Guides](https://css-tricks.com/guides/css-gradients/) - CSS Tricks.
 - 📜 [A Couple of Use Cases for Calc()](https://css-tricks.com/a-couple-of-use-cases-for-calc/) - CSS Tricks.
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
 
 ### **CSS Specificity**
 
@@ -177,7 +177,7 @@ At some point in your work, you'll find yourself in a situation where multiple C
 - 📹 [CSS Basics (Part6) — Specificity](https://www.youtube.com/watch?v=fy07HYm-geM) - by DevTips on Youtube.
 - 📜 [inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance)
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
 
 ### **CSS Box Model**
 
@@ -219,7 +219,7 @@ The CSS box model is the foundation of layout on the Web — each element is rep
 
 - 📜 [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model) - MDN web docs.
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
 
 ### **Styling Content**
 
@@ -240,7 +240,7 @@ After you learn the box-model, learning styling content _( which is the part of 
 - 📜 [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/) - CSS Tricks.
 - 📜 [Styling Links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links) - MDN web docs.
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
 
 ### **CSS Layout**
 
@@ -310,7 +310,7 @@ Layout involves manipulating how elements layout on the page, How much space do 
 
   - 📜 [When And How To Use CSS Multi-Column Layout](https://www.smashingmagazine.com/2019/01/css-multiple-column-layout-multicol/) - Smashing Magazine.
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
 
 ### **Responsive Web Design**
 
@@ -331,10 +331,11 @@ Responsive Web Design is about using HTML and CSS to automatically resize, hide,
 
 #### 📚 Resources
 
-- 📀 [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
 - 📀 [Responsive Images](https://udacity.com/course/responsive-images--ud882)
+- 📀 [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
+- 📀 [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s&list=WL)
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
 
 ### **CSS Animations and Drawing**
 
@@ -384,7 +385,7 @@ CSS Animations involves manipulating how elements should look like over the time
 - 📜 [A Simple CSS Animation Tutorial](https://medium.freecodecamp.org/a-simple-css-animation-tutorial-8a35aa8e87ff) - Freecodecamp.
 - 📜 [CSS Animation Performance](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
 
 ### **CSS Preprocessors**
 
@@ -408,7 +409,7 @@ Learn about the most famous and common used preprocessor ( SASS ), Why I use it?
 - 📜 [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
 - 📜 [PostCSS – A Comprehensive Introduction](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/) - Smashing Magazine.
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
 
 ### **CSS Methodologies**
 
@@ -427,7 +428,7 @@ If you're not careful, it is easy to write complex, confusing, and unmaintainabl
 
 - 📜 [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/) - Smashing Magazine.
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
 
 ### **CSS Frameworks**
 
@@ -457,7 +458,7 @@ In this area, you can pick up any framework you want, but I will list here the m
   - 📹 [Introduction to Tailwind CSS](https://www.youtube.com/playlist?list=PLylMDDjFIp1Dt5hWKHPIHtdF2GFAS8Ak9)
   - 📀 [Tailwind CSS](https://www.youtube.com/playlist?list=PLEhEHUEU3x5p8cxOJ27w20LffCknp935L)
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
 
 ## Where to go next?
 
@@ -479,4 +480,4 @@ In general, I found this blogs, newsletter or courses the best resources to lear
   - [CSS - The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/)
   - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/advanced-css-and-sass/)
 
-### [Back to the top](#Curriculum)
+#### [Back to the top](#Curriculum)
