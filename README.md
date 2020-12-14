@@ -284,7 +284,6 @@ Layout involves manipulating how elements layout on the page, How much space do 
   - 📜 [The Ultimate Guide to Flexbox  — Learning Through Examples](https://www.freecodecamp.org/news/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676/) - Freecodecamp.
   - 📜 [Understanding Flexbox: Everything you need to know](https://www.freecodecamp.org/news/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af/) - Freecodecamp.
 
-
 - Grid
 
   - 👩‍💻 [Grid by Example](https://gridbyexample.com/examples/)
@@ -462,7 +461,20 @@ In this area, you can pick up any framework you want, but I will list here the m
 
 In general, I found this blogs, newsletter or courses the best resources to learn CSS in specific and web development in general and for those who prefer paid courses I list for you the best-paid courses available on the web.
 
-- Blogs
+- References 📜
+
+  - [The Ultimate Guide to Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
+
+- Books 📚
+
+  - [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
+
+- Courses 📀
+
+  - 💲 [CSS - The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/)
+  - 💲 [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/advanced-css-and-sass/)
+
+- Blogs 📃
 
   - [MDN](https://developer.mozilla.org/en-US/)
   - [Google Developers](https://developers.google.com/web/)
@@ -472,10 +484,5 @@ In general, I found this blogs, newsletter or courses the best resources to lear
   - [SABE](https://sabe.io/)
   - [Hacks Mozilla](https://hacks.mozilla.org/)
   - [scotch.io](https://scotch.io/)
-
-- Paid CSS Courses
-
-  - [CSS - The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/)
-  - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/advanced-css-and-sass/)
 
 #### [Back to the top](#Curriculum)
