@@ -275,24 +275,22 @@ Layout involves manipulating how elements layout on the page, How much space do 
 
 - Flexbox
 
-  - 📜 [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks.
-  - [Flexbox Patterns](https://www.flexboxpatterns.com/)
-  - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+  - 👩‍💻 [Flexbox Patterns](https://www.flexboxpatterns.com/)
+  - 👩‍💻 [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
   - 📀 [CSS flexbox Course](https://flexbox.io/) - by WesBos.
-  - 📜 [The Complete Illustrated Flexbox Tutorial](https://www.freecodecamp.org/news/the-complete-illustrated-flexbox-tutorial-d35c085dbf35/) - Freecodecamp.
+  - 📜 [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks.
+  - 📜 [The Complete CSS Flex Tutorial](https://jst.hashnode.dev/complete-css-flex-tutorial)
+  - 📜 [Flexbox - The Ultimate CSS Flex Cheatsheet (with animated diagrams!)](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/) - Freecodecamp.
   - 📜 [The Ultimate Guide to Flexbox  — Learning Through Examples](https://www.freecodecamp.org/news/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676/) - Freecodecamp.
   - 📜 [Understanding Flexbox: Everything you need to know](https://www.freecodecamp.org/news/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af/) - Freecodecamp.
 
+
 - Grid
 
-  - 📜 [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks.
-  - [Grid by Example](https://gridbyexample.com/examples/)
+  - 👩‍💻 [Grid by Example](https://gridbyexample.com/examples/)
   - 📀 [CSS Grid Course](https://cssgrid.io/) - by WesBos.
-  - 📜 [The Ultimate Guide to CSS Grid](https://www.freecodecamp.org/news/complete-css-grid-tutorial/) - Freecodecamp.
-  - 📜 [CSS Grid — The Beginner’s Guide](https://www.freecodecamp.org/news/css-grid-the-beginners-guide-45998e6f6b8/) - Freecodecamp.
-  - 📜 [CSS Grid — a simple layout design tutorial](https://www.freecodecamp.org/news/css-grid-a-simple-layout-design-tutorial-5312a4a8bcaf/) - Freecodecamp.
-  - 📜 [CSS Grid layout: multiply & conquer — or how to actually design using The Grid](https://www.freecodecamp.org/news/css-grid-layout-multiply-conquer-or-how-to-actually-design-using-the-grid-745dfc51e114/) - Freecodecamp.
-  - 📜 [CSS Grid — The Beginner’s Guide](https://www.freecodecamp.org/news/css-grid-the-beginners-guide-45998e6f6b8/) - Freecodecamp.
+  - 📜 [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks.
+  - 📜 [The Complete CSS Grid Tutorial](https://jst.hashnode.dev/css-grid-tutorial)
   - 📜 [How to create an image gallery with CSS Grid](https://medium.freecodecamp.org/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c) - Freecodecamp.
 
 - Floats
