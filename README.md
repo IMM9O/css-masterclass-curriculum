@@ -463,26 +463,20 @@ In general, I found this blogs, newsletter or courses the best resources to lear
 
 - References 📜
 
+  - [HTML Reference](http://htmlreference.io/)
+  - [CSS Reference](http://cssreference.io/)
+  - [MDN Dev](https://developer.mozilla.org/en-US/)
   - [The Ultimate Guide to Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
 
-- Books 📚
+- Courses & Books 📀 📚
 
   - [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
-
-- Courses 📀
-
   - 💲 [CSS - The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/)
   - 💲 [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/advanced-css-and-sass/)
 
-- Blogs 📃
+- Blogs, Podcast 🎙, Newsletter 📫 & Conferences 📢
 
-  - [MDN](https://developer.mozilla.org/en-US/)
-  - [Google Developers](https://developers.google.com/web/)
   - [CSS Tricks](https://css-tricks.com/)
   - [Smashing Magazine](https://www.smashingmagazine.com/)
-  - [Tutorialzine](https://tutorialzine.com/)
-  - [SABE](https://sabe.io/)
-  - [Hacks Mozilla](https://hacks.mozilla.org/)
-  - [scotch.io](https://scotch.io/)
 
 #### [Back to the top](#Curriculum)
