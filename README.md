@@ -29,6 +29,7 @@ But before you start you need to learn the basics of HTML & CSS then follow the 
 ## HTML&CSS Basics
 
 - [html & css is hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
+- [Learn CSS](https://web.dev/learn/css/) - An evergreen CSS course and reference to level up your web styling expertise.
 - [Introduction to HTML](https://scrimba.com/g/ghtml) - Scrimba.
 - [Introduction to CSS](https://scrimba.com/g/gintrotocss) - Scrimba.
 - [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE) - by Traversy Media on Youtube.
@@ -41,21 +42,32 @@ But before you start you need to learn the basics of HTML & CSS then follow the 
 CSS can be categorized into four main categories:
 
 1. **Syntax:** includes selectors, properties, values, and specificity.
-2. **Visual:** includes styling content, responsive web design, and animations.
-3. **Layout:** includes box model, layout.
+2. **Visual:** includes styling content, and animations.
+3. **Layout Module:** includes box model, layout, and responsive web design.
 4. **Management:** includes CSS preprocessors, methodologies, and frameworks.
+
+* Core Module
 
 - [CSS Selectors](#css-selectors)
 - [CSS Properties](#css-properties)
 - [CSS Values](#css-values)
 - [CSS Specificity](#css-specificity)
-- [CSS Box Model](#css-box-model)
+
+* Typography Module
+
 - [Styling Content](#styling-content)
+- [CSS Animations and Drawing](#css-animations-and-drawing)
+
+* Layout Module
+
+- [CSS Box Model](#css-box-model)
 - [CSS Layout](#css-layout)
 - [Responsive Web Design](#responsive-web-design)
-- [CSS Animations and Drawing](#css-animations-and-drawing)
-- [CSS Preprocessors](#css-preprocessors)
+
+* Design System Module
+
 - [CSS Methodologies](#css-methodologies)
+- [CSS Preprocessors](#css-preprocessors)
 - [CSS Frameworks](#css-frameworks)
 
 ### **Syntax**
@@ -200,16 +212,17 @@ The CSS box model is the foundation of layout on the Web — each element is rep
 - **Box Sizing:**
   - content-box: Width and height only apply to the content of the element.
   - border-box: Include padding and border in the element's total width and height.
+- **Box Shadow:**
 - **Background:**
-  - background-color.
-  - background-image.
-  - background-size.
-  - background-position.
-  - background-repeat.
-  - background-attachment.
-  - background-origin.
-  - background-clip.
-  - background-blend-mode.
+  - [background-color](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color).
+  - [background-image](https://developer.mozilla.org/en-US/docs/Web/CSS/background-image).
+  - [background-size](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size).
+  - [background-repeat](https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat).
+  - [background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position).
+  - [background-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/background-origin).
+  - [background-clip](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip).
+  - [background-attachment](https://developer.mozilla.org/en-US/docs/Web/CSS/background-attachment).
+  - [background-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/background-blend-mode).
   - Multiple Background Images.
   - Linear Gradients.
   - Radial Gradients.
@@ -218,6 +231,7 @@ The CSS box model is the foundation of layout on the Web — each element is rep
 #### 📚 Resources
 
 - 📜 [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model) - MDN web docs.
+- 📜 [Every CSS Background Property Illustrated and Explained with Code Examples 🎖️](https://www.freecodecamp.org/news/learn-css-background-properties/)
 
 #### [Back to the top](#Curriculum)
 
@@ -331,6 +345,7 @@ Responsive Web Design is about using HTML and CSS to automatically resize, hide,
 - 📀 [Responsive Images](https://udacity.com/course/responsive-images--ud882)
 - 📀 [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
 - 📀 [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s&list=WL)
+- 📜 [Learn CSS Flexbox by Building 5 Responsive Layouts](https://www.freecodecamp.org/news/learn-flexbox-build-5-layouts/)
 
 #### [Back to the top](#Curriculum)
 
@@ -384,6 +399,28 @@ CSS Animations involves manipulating how elements should look like over the time
 
 #### [Back to the top](#Curriculum)
 
+
+
+
+### **CSS Methodologies**
+
+If you're not careful, it is easy to write complex, confusing, and unmaintainable CSS. so there are many ways to manage that.
+
+#### 📖 Contents
+
+- **Common naming conventions:**
+  - [BEM](http://getbem.com/).
+  - [OOCSS](http://oocss.org/).
+  - [SMACSS](https://smacss.com/).
+  - [SUITCSS](https://suitcss.github.io/).
+  - [Atomic](https://acss.io/).
+
+#### 📚 Resources
+
+- 📜 [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/) - Smashing Magazine.
+
+#### [Back to the top](#Curriculum)
+
 ### **CSS Preprocessors**
 
 The use of CSS preprocessors has become so important especially when you start working on a large project.
@@ -405,25 +442,6 @@ Learn about the most famous and common used preprocessor ( SASS ), Why I use it?
 - 📜 [Sass Guidelines](https://sass-guidelin.es/)
 - 📜 [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
 - 📜 [PostCSS – A Comprehensive Introduction](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/) - Smashing Magazine.
-
-#### [Back to the top](#Curriculum)
-
-### **CSS Methodologies**
-
-If you're not careful, it is easy to write complex, confusing, and unmaintainable CSS. so there are many ways to manage that.
-
-#### 📖 Contents
-
-- **Common naming conventions:**
-  - [BEM](http://getbem.com/).
-  - [OOCSS](http://oocss.org/).
-  - [SMACSS](https://smacss.com/).
-  - [SUITCSS](https://suitcss.github.io/).
-  - [Atomic](https://acss.io/).
-
-#### 📚 Resources
-
-- 📜 [BEM For Beginners: Why You Need BEM](https://www.smashingmagazine.com/2018/06/bem-for-beginners/) - Smashing Magazine.
 
 #### [Back to the top](#Curriculum)
 
