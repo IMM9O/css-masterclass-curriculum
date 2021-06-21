@@ -41,7 +41,7 @@ But before you start you need to learn the basics of HTML & CSS then follow the 
 
 CSS can be categorized into four main categories:
 
-1. **Syntax:** includes selectors, properties, values, and specificity.
+1. **Syntax:** includes selectors, properties, values, and Cascading.
 2. **Visual:** includes styling content, and animations.
 3. **Layout Module:** includes box model, layout, and responsive web design.
 4. **Management:** includes CSS preprocessors, methodologies, and frameworks.
@@ -51,7 +51,7 @@ CSS can be categorized into four main categories:
 - [CSS Selectors](#css-selectors)
 - [CSS Properties](#css-properties)
 - [CSS Values](#css-values)
-- [CSS Specificity](#css-specificity)
+- [CSS Cascading](#The-cascade)
 
 * Typography Module
 
@@ -169,17 +169,38 @@ CSS values are set against CSS Properties and reside within CSS declaration bloc
 
 #### [Back to the top](#Curriculum)
 
-### **CSS Specificity**
 
-At some point in your work, you'll find yourself in a situation where multiple CSS rules will have selectors matching the same element. In such cases, which CSS rule "wins", and ends up being the one that is finally applied to the element? This is controlled by a mechanism called the Cascade, One of the most important concepts to master as you start to dig into more advanced concepts is specificity, Specificity is basically a measure of how specific a selector is. (Source: MDN)
+### **The cascade**
+
+Cascading is the algorithm used for solving conflicts where multiple CSS rules apply to an same HTML element.
+The cascade algorithm is split into 4 distinct stages.
+
+**Position and order of appearance:** the order of which your CSS rules appear
+**Specificity:** an algorithm which determines which CSS selector has the strongest match
+**Origin:** the order of when CSS appears and where it comes from, whether that is a browser style, CSS from a browser extension, or your authored CSS
+**Importance:** some CSS rules are weighted more heavily than others, especially with the !important rule type
 
 #### 📖 Contents
 
+- **Position and order of appearance:**
+    - Inline style
+    - Embedded style tag
+    - External file
+
 - **Specificity hierarchy:**
-  - Inline styles.
-  - IDs.
-  - Classes, attributes and pseudo-classes.
-  - Elements and pseudo-elements.
+    - Universal selector
+    - Element or pseudo-element selector
+    - Class, pseudo-class, or attribute selector
+    - ID selector
+    - Inline style attribute
+    - !important rule
+
+- **Origin:**
+    - User agent base styles: Browser style like chrome, firefox, ...etc.
+    - Local user style: System style like windows, android, ..etc.
+    - Authored CSS: Any css developer are write
+    - Authored `!important`: any `!important` developer are write
+-  
 
 #### 📚 Resources
 
@@ -205,10 +226,10 @@ The CSS box model is the foundation of layout on the Web — each element is rep
 #### 📖 Contents
 
 - **Content** (images, text …etc).
-- **Padding** (Transparent area around the content, inside of the box).
-- **Borders** (goes around the padding and content ).
 - **Fill Area** (the area that contains border, padding, content, and filling with background and background-image).
 - **Margins** (Space around elements, outside of any defined borders).
+- **Borders** (goes around the padding and content ).
+- **Padding** (Transparent area around the content, inside of the box).
 - **Box Sizing:**
   - content-box: Width and height only apply to the content of the element.
   - border-box: Include padding and border in the element's total width and height.
@@ -231,7 +252,11 @@ The CSS box model is the foundation of layout on the Web — each element is rep
 #### 📚 Resources
 
 - 📜 [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model) - MDN web docs.
+- 📜 [What You Should Know About Collapsing Margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
+- 📜 [Inline Elements and Block Elements in HTML - Explained](https://www.freecodecamp.org/news/inline-elements-and-block-elements-in-html-explained/)
+- 📜 [Getting Deep Into Shadows](https://css-tricks.com/getting-deep-into-shadows/)
 - 📜 [Every CSS Background Property Illustrated and Explained with Code Examples 🎖️](https://www.freecodecamp.org/news/learn-css-background-properties/)
+-  
 
 #### [Back to the top](#Curriculum)
 
@@ -345,6 +370,7 @@ Responsive Web Design is about using HTML and CSS to automatically resize, hide,
 - 📀 [Responsive Images](https://udacity.com/course/responsive-images--ud882)
 - 📀 [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
 - 📀 [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s&list=WL)
+- 📜 [Learn CSS Media Queries by Building Three Projects](https://www.freecodecamp.org/news/learn-css-media-queries-by-building-projects/)
 - 📜 [Learn CSS Flexbox by Building 5 Responsive Layouts](https://www.freecodecamp.org/news/learn-flexbox-build-5-layouts/)
 
 #### [Back to the top](#Curriculum)
