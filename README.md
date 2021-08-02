@@ -209,6 +209,7 @@ The cascade algorithm is split into 4 distinct stages.
 - 📹 [CSS Basics (Part2) — Cascades](https://www.youtube.com/watch?v=tZhmjgLQgXU) - by DevTips on Youtube.
 - 📹 [CSS Basics (Part6) — Specificity](https://www.youtube.com/watch?v=fy07HYm-geM) - by DevTips on Youtube.
 - 📜 [inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance)
+- 📜 [Inherit, initial, unset, revert](https://www.quirksmode.org/blog/archives/2021/06/inherit_initial.html)
 
 #### [Back to the top](#Curriculum)
 
@@ -523,4 +524,4 @@ In general, I found this blogs, newsletter or courses the best resources to lear
   - [CSS Tricks](https://css-tricks.com/)
   - [Smashing Magazine](https://www.smashingmagazine.com/)
 
-#### [Back to the top](#Curriculum)
+### [Back to the top](#Curriculum)
