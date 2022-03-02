@@ -448,7 +448,7 @@ If you're not careful, it is easy to write complex, confusing, and unmaintainabl
 
 #### [Back to the top](#Curriculum)
 
-### **CSS Preprocessors**
+### **CSS Preprocessor**
 
 The use of CSS preprocessors has become so important especially when you start working on a large project.
 Learn about the most famous and common used preprocessor ( SASS ), Why I use it?, How to use it? and How to writing maintainable and scalable Sass.
@@ -478,11 +478,17 @@ In this area, you can pick up any framework you want, but I will list here the m
 
 #### 📖 Contents
 
+- **Tailwind CSS**
 - **Bootstrap**
 - **Bulma**
-- **Tailwind CSS**
 
 #### 📚 Resources
+
+- [Tailwind CSS](https://tailwindcss.com/docs/what-is-tailwind/)
+
+  - 📹 [Vanilla CSS vs Bootstrap vs Tailwind CSS - Which one should you choose?](https://www.youtube.com/watch?v=vmXIGdP8KN8)
+  - 📹 [Introduction to Tailwind CSS](https://www.youtube.com/playlist?list=PLylMDDjFIp1Dt5hWKHPIHtdF2GFAS8Ak9)
+  - 📀 [Tailwind CSS](https://www.youtube.com/playlist?list=PLEhEHUEU3x5p8cxOJ27w20LffCknp935L)
 
 - [Bootstrap](https://getbootstrap.com/)
 
@@ -495,10 +501,6 @@ In this area, you can pick up any framework you want, but I will list here the m
   - 📀 [learn Bulma Course](https://scrimba.com/g/gbulma) - Scrimba.
   - 📀 [Bulma Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg&index=23&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - by Traversy Media on Youtube.
 
-- [Tailwind CSS](https://tailwindcss.com/docs/what-is-tailwind/)
-  - 📹 [Vanilla CSS vs Bootstrap vs Tailwind CSS - Which one should you choose?](https://www.youtube.com/watch?v=vmXIGdP8KN8)
-  - 📹 [Introduction to Tailwind CSS](https://www.youtube.com/playlist?list=PLylMDDjFIp1Dt5hWKHPIHtdF2GFAS8Ak9)
-  - 📀 [Tailwind CSS](https://www.youtube.com/playlist?list=PLEhEHUEU3x5p8cxOJ27w20LffCknp935L)
 
 #### [Back to the top](#Curriculum)
 
