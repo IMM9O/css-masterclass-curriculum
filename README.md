@@ -24,6 +24,8 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 In each section you can find 📖 Contents and 📚 Resources, in contents I show to you what topics included in this section then in resources sections I list some of the big and most comprehensive ( articles, videos or courses ) resources covering this topic.
 But before you start you need to learn the basics of HTML & CSS then follow the Curriculum to master CSS.
 
+Some section has ⭐ it means that this is recommended tools to use.
+
 ---
 
 ## HTML&CSS Basics
@@ -39,36 +41,23 @@ But before you start you need to learn the basics of HTML & CSS then follow the 
 
 ## Curriculum
 
-CSS can be categorized into four main categories:
-
-1. **Syntax:** includes selectors, properties, values, and Cascading.
-2. **Visual:** includes styling content, and animations.
-3. **Layout Module:** includes box model, layout, and responsive web design.
-4. **Management:** includes CSS preprocessors, methodologies, and frameworks.
-
-* Core Module
-
+- [CSS Syntax](#syntax)
 - [CSS Selectors](#css-selectors)
 - [CSS Properties](#css-properties)
 - [CSS Values](#css-values)
 - [CSS Cascading](#The-cascade)
-
-* Typography Module
-
 - [Styling Content](#styling-content)
-- [CSS Animations and Drawing](#css-animations-and-drawing)
-
-* Layout Module
 
 - [CSS Box Model](#css-box-model)
 - [CSS Layout](#css-layout)
+
 - [Responsive Web Design](#responsive-web-design)
 
-* Design System Module
+- [CSS Animations and Drawing](#css-animations-and-drawing)
 
+- [CSS Frameworks](#css-frameworks)
 - [CSS Methodologies](#css-methodologies)
 - [CSS Preprocessors](#css-preprocessors)
-- [CSS Frameworks](#css-frameworks)
 
 ### **Syntax**
 
@@ -432,6 +421,38 @@ CSS Animations involves manipulating how elements should look like over the time
 
 
 
+### **CSS Frameworks**
+
+In this area, you can pick up any framework you want, but I will list here the most famous one.
+
+#### 📖 Contents
+
+- **Tailwind CSS** ⭐
+- **Bootstrap** ⭐
+- **Bulma**
+
+#### 📚 Resources
+
+- [Tailwind CSS](https://tailwindcss.com/docs/what-is-tailwind/)
+
+  - 📹 [Vanilla CSS vs Bootstrap vs Tailwind CSS - Which one should you choose?](https://www.youtube.com/watch?v=vmXIGdP8KN8)
+  - 📹 [Introduction to Tailwind CSS](https://www.youtube.com/playlist?list=PLylMDDjFIp1Dt5hWKHPIHtdF2GFAS8Ak9)
+  - 📀 [Tailwind CSS](https://www.youtube.com/playlist?list=PLEhEHUEU3x5p8cxOJ27w20LffCknp935L)
+
+- [Bootstrap](https://getbootstrap.com/)
+
+  - 📀 [Learn Bootstrap 4 Course](https://scrimba.com/g/gbootstrap4) - Scrimba.
+  - 📜 [Bootstrap 4: Everything You Need to Know](https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784) - Freecodecamp.
+  - 📜 [Bootstrap Framework — Best Practices](https://hackernoon.com/bootstrap-framework-best-practises-b1d81c02d6cf)
+
+- [Bulma](https://bulma.io/)
+
+  - 📀 [learn Bulma Course](https://scrimba.com/g/gbulma) - Scrimba.
+  - 📀 [Bulma Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg&index=23&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - by Traversy Media on Youtube.
+
+
+#### [Back to the top](#Curriculum)
+
 ### **CSS Methodologies**
 
 If you're not careful, it is easy to write complex, confusing, and unmaintainable CSS. so there are many ways to manage that.
@@ -459,10 +480,10 @@ Learn about the most famous and common used preprocessor ( SASS ), Why I use it?
 #### 📖 Contents
 
 - **Common Preprocessors:**
-  - SASS.
+  - SASS. ⭐
   - LESS.
   - Stylus.
-  - PostCSS.
+  - PostCSS. ⭐
 
 #### 📚 Resources
 
@@ -475,37 +496,6 @@ Learn about the most famous and common used preprocessor ( SASS ), Why I use it?
 
 #### [Back to the top](#Curriculum)
 
-### **CSS Frameworks**
-
-In this area, you can pick up any framework you want, but I will list here the most famous one.
-
-#### 📖 Contents
-
-- **Tailwind CSS**
-- **Bootstrap**
-- **Bulma**
-
-#### 📚 Resources
-
-- [Tailwind CSS](https://tailwindcss.com/docs/what-is-tailwind/)
-
-  - 📹 [Vanilla CSS vs Bootstrap vs Tailwind CSS - Which one should you choose?](https://www.youtube.com/watch?v=vmXIGdP8KN8)
-  - 📹 [Introduction to Tailwind CSS](https://www.youtube.com/playlist?list=PLylMDDjFIp1Dt5hWKHPIHtdF2GFAS8Ak9)
-  - 📀 [Tailwind CSS](https://www.youtube.com/playlist?list=PLEhEHUEU3x5p8cxOJ27w20LffCknp935L)
-
-- [Bootstrap](https://getbootstrap.com/)
-
-  - 📀 [Learn Bootstrap 4 Course](https://scrimba.com/g/gbootstrap4) - Scrimba.
-  - 📜 [Bootstrap 4: Everything You Need to Know](https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784) - Freecodecamp.
-  - 📜 [Bootstrap Framework — Best Practices](https://hackernoon.com/bootstrap-framework-best-practises-b1d81c02d6cf)
-
-- [Bulma](https://bulma.io/)
-
-  - 📀 [learn Bulma Course](https://scrimba.com/g/gbulma) - Scrimba.
-  - 📀 [Bulma Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg&index=23&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - by Traversy Media on Youtube.
-
-
-#### [Back to the top](#Curriculum)
 
 ## Where to go next?
 
@@ -524,9 +514,10 @@ In general, I found this blogs, newsletter or courses the best resources to lear
   - 💲 [CSS - The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/)
   - 💲 [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/advanced-css-and-sass/)
 
-- Blogs, Podcast 🎙, Newsletter 📫 & Conferences 📢
+- Blogs 📝, Podcast 🎙, Newsletter 📫 & Conferences 📢
 
-  - [CSS Tricks](https://css-tricks.com/)
-  - [Smashing Magazine](https://www.smashingmagazine.com/)
+  - [CSS Tricks](https://css-tricks.com/) 📝
+  - [Smashing Magazine](https://www.smashingmagazine.com/) 📝
+  - [THe CSS Podcast](https://thecsspodcast.libsyn.com/) 🎙
 
 ### [Back to the top](#Curriculum)
