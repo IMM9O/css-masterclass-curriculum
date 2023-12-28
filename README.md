@@ -358,10 +358,13 @@ Responsive Web Design is about using HTML and CSS to automatically resize, hide,
 - **Media Queries**
 - **Responsive Images**
 - **Common Responsive Patterns**
+![Responsive Patterns](./_assets/responsive_patterns.png)
+
   - Mostly Fluid.
   - Column Drop.
   - Layout Shifter.
   - Off Canvas.
+
 - **Responsive Layout Methods:**
   - Mobile-First.
   - Desktop-First.
