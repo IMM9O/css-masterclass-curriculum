@@ -1,0 +1,24 @@
+name: Check links
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          # Medium, Udemy, and similar sites answer 403 or 429 to bots even when the page is live.
+          # unsplash.com blocks bots with 401. The badge link exists only after the first run.
+          args: --no-progress --max-retries 3 --accept '200..=299,403,429' --exclude '^https://unsplash\.com' --exclude 'github\.com/imm9o/.*/actions' './**/*.md'
+          fail: true
