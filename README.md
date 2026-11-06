@@ -477,7 +477,7 @@ Without rules, CSS gets complex and hard to change. A methodology gives your tea
 
 #### What you will learn
 
-- [BEM](https://getbem.com/) - Block, Element, Modifier.
+- [BEM](https://en.bem.info/) - Block, Element, Modifier.
 - [CUBE CSS](https://cube.fyi/) - Composition, Utility, Block, Exception.
 - [OOCSS](https://github.com/stubbornella/oocss/wiki) - Object-oriented CSS.
 - [SMACSS](https://smacss.com/) - Scalable and modular architecture for CSS.
